@@ -1,2 +1,2 @@
-# codingame-puzzles-solution-js
+# codingame-puzzles-solutions-js
 My solutions to codingame puzzles... 
